@@ -104,7 +104,7 @@
         "title": "Amazon Clone",
         "category": "Amazon Clone built with MERN React as Front end and Firebase as Backend",
         "image": "amazon.PNG",
-        "url": "#"
+        "url": "https://clone-ba9ab.web.app/"
       },
       {
         "title": "Galaxy Car Wash & Detailing",
@@ -113,10 +113,16 @@
         "url": "#"
       },
       {
+        "title": "Covid-19 Tracker App",
+        "category": "Track covid cases built with React, material UI and Charts",
+        "image": "covid.PNG",
+        "url": "https://covid-19-28e85.web.app/"
+      },
+      {
         "title": "About Me",
         "category": "Personal Blog built with Angular and Firebase",
         "image": "aboutme.PNG",
-        "url": "#"
+        "url": "https://aboutme-db.web.app/"
       }
     ]
   },
