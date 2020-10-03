@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Gagan Deep",
+    "occupation": "Front End Web Developer",
+    "description": "I build awesome websites",
+    "image": "dp.png",
+    "bio": "My name is Gagan, I'm a Full Stack Web Developer. Currently I'm looking for a job as a Front web developer ",
+    "email": "gagandeep7795@gmail.com",
+    "phone": "+1 905 226 6334",
+    "address": {
+      "street": "8 Shirebrook Crt",
+      "city": "Toronto",
+      "state": "Canada",
+      "zip": "L6X 1Z2"
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/deep.guru.568",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "#",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/gagandeep95",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Lambton College",
+        "degree": "Post-Graduate in Computer Software & Database Development",
+        "graduated": "December 2019",
+        "description": "I have learnt various web technologies like HTML5, CSS3, JavaScript, Bootstrap, React, Angular."
+      }
+    ],
+    "work": [
+      {
+        "company": "VIRUAL XCELLENCE",
+        "title": "Team Member && Front-end Developer",
+        "years": "September 2019 - December 2019",
+        "description": "Fixed errors from existing websites and performed upgrades that significantly improved web functionality and speed.Collaborated with the cross-functional teams to convert visual designs, user experience flows, and content into functional and engaging interfaces ensuring high performance on mobile and desktop.Actively participated in the full development life cycle including functional specifications, work estimation, design, development, cross-browser testing, bug resolution, and deployment."
+      },
+      {
+        "company": "Pixel Drop",
+        "title": "Full Stack Web Developer",
+        "years": "March 2016 - March 2018",
+        "description": "Build a dynamic and interactive website that ensures high traffic, page views, and User Experience, resulting in a 35% growth in sales revenue.Improved web application security applications, minimizing hacker attacks from 2.5% to 0.03%.Co-ordinated the workflow with the UI/UX designer and co-operated with the back-end developers in the process of building RESTful API."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "80%"
+      },
+      
+      {
+        "name": "Angular",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with MERN React as Front end and Firebase as Backend",
+        "image": "amazon.PNG",
+        "url": "#"
+      },
+      {
+        "title": "Galaxy Car Wash & Detailing",
+        "category": "Client website built with HTML5, CSS3, Bootstrap, JavaScript, PHP and MySQL",
+        "image": "galaxy.jpg",
+        "url": "#"
+      },
+      {
+        "title": "About Me",
+        "category": "Personal Blog built with Angular and Firebase",
+        "image": "aboutme.PNG",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
